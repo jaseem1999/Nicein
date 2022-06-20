@@ -17,7 +17,7 @@ function Home() {
         </div>
         <div className="goto">
             <div className="in">
-                <a className="btn btn-light" href="/login">Login</a>
+                <a className="btn btn-light" href="/#/login">Login</a>
                 
             </div>
             <div className="out">
